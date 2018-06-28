@@ -1,0 +1,80 @@
+{
+    "employee": [
+        {
+            "employeeId": 1,
+            "name": "Derrick Henry",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "employeeId": 2,
+            "name": "Marcus Mariota",
+            "departmentId": 1,
+            "computerId": 3
+        },
+        {
+            "employeeId": 3,
+            "name": "Corey Davis",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "employeeId": 4,
+            "name": "Tajae Sharpe",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "employeeId": 5,
+            "name": "Dion Lewis",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "employeeId": 6,
+            "name": "Taywan Taylor",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "employeeId": 7,
+            "name": "Blane Gabbert",
+            "departmentId": 1,
+            "computerId": 3
+        },
+        {
+            "employeeId": 8,
+            "name": "Rishard Matthes",
+            "departmentId": 3,
+            "computerId": 1
+        }
+    ],
+    "department": [
+        {
+            "departmentId": 1,
+            "name": "Quarterback"
+        },
+        {
+            "departmentId": 2,
+            "name": "Running Back"
+        },
+        {
+            "departmentId": 3,
+            "name": "Wide Receiver"
+        }
+    ],
+    "computer": [
+        {
+            "computerId": 1,
+            "brand": "Macbook Air"
+        },
+        {
+            "computerId": 2,
+            "brand": "Chromebook"
+        },
+        {
+            "computerId": 3,
+            "brand": "Macbook Pro"
+        }
+    ]
+}

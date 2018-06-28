@@ -1,0 +1,20 @@
+#display-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.employee {
+    border: var(--emp-border);
+    margin: var(--emp-margin);
+    width: var(--emp-width);
+    height: var(--emp-height);
+    text-align: var(--emp-center);
+    border-radius: var(--emp-radius);
+}
+
+h1 {
+    color: var(--emp-name);
+    font-family: var(--emp-family);
+}

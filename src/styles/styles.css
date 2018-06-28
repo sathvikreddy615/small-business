@@ -1,0 +1,12 @@
+@import "employee.css";
+
+:root {
+    --emp-margin: 20px;
+    --emp-width: 200px;
+    --emp-height: 125px;
+    --emp-border: 1px solid black;
+    --emp-radius: 20px;
+    --emp-center: center;
+    --emp-name: navy;
+    --emp-family: cursive;
+}
